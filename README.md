@@ -1,2 +1,1 @@
-# TrabalhoFacul
-Trabalho da faculdade (projeto)
+# Trabalho de Desenvolvimento para Desktop
