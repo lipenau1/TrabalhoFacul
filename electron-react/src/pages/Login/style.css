@@ -1,0 +1,29 @@
+.sideBar {
+  text-align: left;
+  height: 100%;
+  width: 30%;
+  background-color: #fff;
+  position: fixed !important;
+  z-index: 1;
+  overflow: auto;
+  background-color: rgb(221, 221, 221);
+}
+
+.text {
+  width: 100%;
+  text-align: left;
+}
+
+.login {
+  padding-bottom: 20px;
+}
+
+.inputs {
+  margin-top: 5%;
+  margin-left: 20%;
+}
+
+.header {
+  padding-top: 15%;
+  font-size: 2.2em;
+}
