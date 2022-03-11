@@ -15,9 +15,8 @@ function Login() {
             password: values.password,
         }
         let response = await Api.login(requestObject);
-        console.log(response);
         if(response === true){
-            navigate('teste')
+            navigate('home')
         }
     }
 
